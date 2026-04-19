@@ -209,4 +209,4 @@ Gameplay and balance changes should reference the relevant section of the latest
 
 ## License
 
-UNLICENSED © life-after-grad contributors.
+[MIT](LICENSE) © 2026 Leo Sun
